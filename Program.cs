@@ -8,6 +8,8 @@ namespace Abstract1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello SOUMYA!");
+            Console.WriteLine("THIS IS CHITTI!");
         }
     }
 }
