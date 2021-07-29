@@ -1,0 +1,16 @@
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.exe
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.deps.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.runtimeconfig.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.runtimeconfig.dev.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\ref\Abstract1.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\bin\Debug\net5.0\Abstract1.pdb
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.csproj.AssemblyReference.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.AssemblyInfoInputs.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.AssemblyInfo.cs
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.csproj.CoreCompileInputs.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\ref\Abstract1.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.pdb
+C:\Users\MADHUSUDAN REDDY\source\repos\Abstract1\obj\Debug\net5.0\Abstract1.genruntimeconfig.cache
